@@ -1,0 +1,241 @@
+Iter01
+Kmeans: ari=0.0200364 nmi=0.0453587 ami=0.0283501 completeness=0.0601467 purity=0.0364075
+Iter02
+Kmeans: ari=0.0297969 nmi=0.0548633 ami=0.0382778 completeness=0.0710866 purity=0.0446691
+Iter03
+Kmeans: ari=0.0345469 nmi=0.0628473 ami=0.0462816 completeness=0.0823324 purity=0.05082
+Iter04
+Kmeans: ari=0.0184453 nmi=0.0543444 ami=0.0369661 completeness=0.0767125 purity=0.0420758
+Iter05
+Kmeans: ari=0.0224149 nmi=0.0628112 ami=0.0454987 completeness=0.0894535 purity=0.0483969
+Iter06
+Kmeans: ari=0.0390182 nmi=0.0794397 ami=0.0630433 completeness=0.106538 purity=0.0633311
+Iter07
+Kmeans: ari=0.0454927 nmi=0.0853954 ami=0.0692263 completeness=0.113193 purity=0.068559
+Iter08
+Kmeans: ari=0.0566408 nmi=0.0953549 ami=0.0794714 completeness=0.12506 purity=0.0770526
+Iter09
+Kmeans: ari=0.0566408 nmi=0.0953549 ami=0.0794714 completeness=0.12506 purity=0.0770526
+Iter10
+Kmeans: ari=0.0659745 nmi=0.10309 ami=0.0874879 completeness=0.133319 purity=0.0840359
+Iter11
+Kmeans: ari=0.0681869 nmi=0.104829 ami=0.0893008 completeness=0.134996 purity=0.0856818
+Iter12
+Kmeans: ari=0.0743692 nmi=0.109954 ami=0.0945561 completeness=0.14103 purity=0.0901002
+Iter13
+Kmeans: ari=0.0743692 nmi=0.109954 ami=0.0945561 completeness=0.14103 purity=0.0901002
+Iter14
+Kmeans: ari=0.0552974 nmi=0.101238 ami=0.0852301 completeness=0.135772 purity=0.0807094
+Iter15
+Kmeans: ari=0.211491 nmi=0.218255 ami=0.205137 completeness=0.267981 purity=0.184095
+Iter16
+Kmeans: ari=0.183338 nmi=0.194967 ami=0.181447 completeness=0.239659 purity=0.164324
+Iter17
+Kmeans: ari=0.303419 nmi=0.310068 ami=0.298431 completeness=0.383446 purity=0.260263
+Iter18
+Kmeans: ari=0.303419 nmi=0.310068 ami=0.298431 completeness=0.383446 purity=0.260263
+Iter19
+Kmeans: ari=0.303419 nmi=0.310068 ami=0.298431 completeness=0.383446 purity=0.260263
+Iter20
+Kmeans: ari=0.303419 nmi=0.310068 ami=0.298431 completeness=0.383446 purity=0.260263
+Iter21
+Kmeans: ari=0.320794 nmi=0.330034 ami=0.318744 completeness=0.407577 purity=0.27728
+Iter22
+Kmeans: ari=0.320794 nmi=0.330034 ami=0.318744 completeness=0.407577 purity=0.27728
+Iter23
+Kmeans: ari=0.320794 nmi=0.330034 ami=0.318744 completeness=0.407577 purity=0.27728
+Iter24
+Kmeans: ari=0.320794 nmi=0.330034 ami=0.318744 completeness=0.407577 purity=0.27728
+Iter25
+Kmeans: ari=0.320794 nmi=0.330034 ami=0.318744 completeness=0.407577 purity=0.27728
+Iter26
+Kmeans: ari=0.320794 nmi=0.330034 ami=0.318744 completeness=0.407577 purity=0.27728
+Iter27
+Kmeans: ari=0.412145 nmi=0.473682 ami=0.464663 completeness=0.599116 purity=0.391678
+Iter28
+Kmeans: ari=0.412145 nmi=0.473682 ami=0.464663 completeness=0.599116 purity=0.391678
+Iter29
+Kmeans: ari=0.430892 nmi=0.502148 ami=0.493557 completeness=0.641629 purity=0.412481
+Iter30
+Kmeans: ari=0.430892 nmi=0.502148 ami=0.493557 completeness=0.641629 purity=0.412481
+Iter31
+Kmeans: ari=0.430892 nmi=0.502148 ami=0.493557 completeness=0.641629 purity=0.412481
+Iter32
+Kmeans: ari=0.430892 nmi=0.502148 ami=0.493557 completeness=0.641629 purity=0.412481
+Iter33
+Kmeans: ari=0.430892 nmi=0.502148 ami=0.493557 completeness=0.641629 purity=0.412481
+Iter34
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter35
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter36
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter37
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter38
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter39
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter40
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter41
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter42
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter43
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter44
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter45
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter46
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter47
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter48
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter49
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter50
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter51
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter52
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter53
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter54
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter55
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter56
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter57
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter58
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter59
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter60
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter61
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter62
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter63
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter64
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter65
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter66
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter67
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter68
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter69
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter70
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter71
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter72
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter73
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter74
+Kmeans: ari=0.478511 nmi=0.615137 ami=0.60838 completeness=0.806768 purity=0.497069
+Iter75
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter76
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter77
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter78
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter79
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter80
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter81
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter82
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter83
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter84
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter85
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter86
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter87
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter88
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter89
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter90
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter91
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter92
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter93
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter94
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter95
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter96
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter97
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter98
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter99
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter100
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter101
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter102
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter103
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter104
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter105
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter106
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter107
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter108
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter109
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter110
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter111
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter112
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter113
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter114
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter115
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter116
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter117
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter118
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter119
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+Iter120
+Kmeans: ari=0.548971 nmi=0.710749 ami=0.705717 completeness=0.91916 purity=0.57938
+BEST: best_nmi=0.710749 best_nmi_iter=75
