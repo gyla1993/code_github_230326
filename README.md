@@ -5,13 +5,13 @@
 
 extract_best_ari_nmi.py　　　# Code for experimental data processing.
 
-methods.py　　　# Main code for 
+methods.py　　　# Main method code for five small datasets.
 
-methods_large_scale.py　　　# 
+methods_large_scale.py　　　# Main method code for five large datasets.
 
 result_summary.py　　　# Code for experimental data processing.
 
-running_time_display.py　　　# Validation for cotrain
+running_time_display.py　　　# Code for running time comparision.
 
 ## Requirements
 
