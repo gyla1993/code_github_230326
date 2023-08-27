@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Codes and data for 《Graph Frequency Reorganization: An Unsupervised Method to Enhance the Linear Discriminability for Non-Euclidean Data》submitted to *Information Sciences*.
+# Codes and data for 《Disentangling Clusters from Non-Euclidean Data via Graph Frequency Reorganization》submitted to *Information Sciences*.
 
 ## File Description
 
