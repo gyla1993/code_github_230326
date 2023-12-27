@@ -11,7 +11,7 @@ methods_large_scale.py　　　# Main method code for five large datasets.
 
 result_summary.py　　　# Code for experimental data processing.
 
-running_time_display.py　　　# Code for running time comparision.
+running_time_display.py　　　# Code for running time comparison.
 
 ## Requirements
 
